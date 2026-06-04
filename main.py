@@ -41,7 +41,7 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8950587926:AAHhxi3Jz_obapM4yxyHfbi4O4oMptWavsE'
+TOKEN = '8707604417:AAHQiXt_FpgY5nyxiyLIlsy00E8Wz0WJ0Jg'
 OWNER_ID = 8519988731 # ADD YOUR USER ID 
 ADMIN_ID = 8707604417  # DON'T REPLACE IF REPLACE THEN BOT NOT WORKING 
 YOUR_USERNAME = '@Silent_Banner_Nxt' # ADD YOUR USERNAME 
